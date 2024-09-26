@@ -1,7 +1,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>1.0</groupId>
-	<artifactId>MonopolyCI</artifactId>
+	<artifactId>monopoly-euskara</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 
 	<build>
@@ -33,15 +33,7 @@
 					</execution>
 				</executions>
 			</plugin>
-			<plugin>
-         		 <groupId>org.apache.maven.plugins</groupId>
-         		 <artifactId>maven-surefire-plugin</artifactId>
-          		 <version>2.19.1</version>
-         		 <configuration>
-          		     <testFailureIgnore>true</testFailureIgnore>
-	   		    
-           		 </configuration>
-       		        </plugin>
+			
 		</plugins>
 	</build>
 	<repositories>
@@ -58,8 +50,8 @@
 
 		<sonar.organization>jononekin</sonar.organization>
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
-		<sonar.projectKey>jononekin_monopolyci</sonar.projectKey>
-		<sonar.login>90a468852cc035e4be637130569e928051818a41</sonar.login>
+		<sonar.projectKey>jononekin_monopoly-euskara</sonar.projectKey>
+		<sonar.login>69f0b261f26fe8390be129e064c0bf84e7a4c3b1</sonar.login>
 	</properties>
 
 	<!-- https://mvnrepository.com/artifact/junit/junit -->
