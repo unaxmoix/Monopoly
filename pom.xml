@@ -1,7 +1,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>1.0</groupId>
-	<artifactId>monopoly-euskara</artifactId>
+	<artifactId>CI25Euskara</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 
 	<build>
@@ -50,8 +50,8 @@
 
 		<sonar.organization>jononekin</sonar.organization>
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
-		<sonar.projectKey>jononekin_monopolly-castellano</sonar.projectKey>
-		<sonar.login>f58b3b17e482ba5a9bdb329f21778875d283f0e9</sonar.login>
+		<sonar.projectKey>jononekin_ci25euskara</sonar.projectKey>
+		<sonar.login>afcb6ee27c088bb5cab2ebe3653a12aadc15d082</sonar.login>
 	</properties>
 
 	<!-- https://mvnrepository.com/artifact/junit/junit -->
