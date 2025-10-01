@@ -1,5 +1,7 @@
 package edu.ncsu.monopoly;
-//I have added a new comment  
+//I have added a new comment 
+//Aldaketa egina
+
 public abstract class Card {
 
     public static final int TYPE_CHANCE = 1;
